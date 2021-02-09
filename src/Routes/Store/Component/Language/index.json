@@ -1,0 +1,15 @@
+{
+    "ridetype":"Ride Type",
+    "r1":"Individual Ride",
+    "r2":"Group Ride",
+    "scooter":"Scooter",
+    "e-bike":"E-bike",
+    "children-bike":"Children bike",
+    "accessories":"Accessories",
+    "drop-of-location":"Drop Off Location",
+    "renting-start":"Renting Start Date/Time",
+    "renting-end":"Renting End Date/Time",
+    "open-to-join-ride":"Open to Join Ride",
+    "show-house-number":"Show House Number?",
+    "palce-order":"Place Order"
+}
